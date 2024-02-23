@@ -1,2 +1,2 @@
 # Placement_project
-porject for placement
+project for placement
